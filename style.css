@@ -1,0 +1,250 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Nunito', sans-serif;
+    background-color: #ffffff;
+    min-height: 100vh;
+}
+
+.pimg1 {
+    background-image: url(images/dark-chocolate-cookies-2067420.jpg);
+    background-size: cover;
+    height: 110vh;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text1 {
+    color: #fff;
+    font-size: 110px;
+    /* position: relative; */
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    line-height: 75vh;
+}
+
+.text2 {
+    color: #fff;
+    font-size: 110px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin-top: -190px;
+}
+
+.mybtn {
+    text-align: center;
+    line-height: 50vh;
+}
+
+.mybtn a {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: #fff 2px solid;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.cart li {
+    list-style: none;
+    float: left;
+}
+
+.navbar {
+    background-color: rgb(39, 37, 33, 0.7);
+    height: 66px;
+    font-size: 14px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+.about {
+    color: #756F63;
+}
+
+.about h1 {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    margin: 60px 0 7px 150px;
+}
+
+.about h2 {
+    font-size: 15px;
+    margin-left: 200px;
+    margin-bottom: 55px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.aboutText {
+    margin: 50px;
+}
+
+.aboutimg {
+    margin-top: 40px;
+    height: 500px;
+}
+
+.pimg2 {
+    background-image: url(images/dark-chocolate-cookies-2067420.jpg);
+    background-size: cover;
+    height: 80vh;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.gallery {
+    color: #756F63;
+}
+
+.gallerytext h1 {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    margin: 60px 0 7px 90px;
+}
+
+.gallerytext h2 {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 210px;
+}
+
+.gallerytext p {
+    margin: 55px 50px 150px 30px;
+    text-align: center;
+}
+
+.galimg {
+    margin-top: 40px;
+}
+
+
+/* .gimg img:hover {
+    transform: scale(0.97);
+    transition: ease-in-out;
+} */
+
+.pimg3 {
+    background: url(images/chocolate_truffles-High_Quality_HD_Wallpaper_1366x768.jpg);
+    background-size: cover;
+    height: 80vh;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text3 {
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    line-height: 80vh;
+}
+
+.service {
+    margin-top: 70px;
+}
+
+.card {
+    margin: 0 10px;
+}
+
+.card-text {
+    color: #756F63;
+}
+
+.fcontent {
+    padding-top: 80px;
+}
+
+.footer {
+    background: #F4F3F2;
+    color: #756F63;
+    height: 271px;
+    width: 100%;
+    position: relative;
+    margin-top: auto;
+    min-height: 110vh;
+    /* padding: 0 300px; */
+}
+
+.ftitle {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 8px;
+}
+
+.fsubtitle {
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+}
+
+.footer a {
+    letter-spacing: 2px;
+    color: #756F63;
+    text-decoration: none;
+}
+
+.fabout {
+    text-align: center;
+    padding-bottom: 30px;
+    padding: 0 350px;
+}
+
+.footerform {
+    padding: 0px 300px;
+    padding-top: 50px;
+}
+
+.fbottom {
+    background: #756F63;
+    color: #ffffff;
+    height: 42px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+}
+
+.footer .fcontent {
+    display: flex;
+}
+
+.footer .footer-section {
+    flex: 1;
+    /* border: 1px solid white; */
+    padding: 20px;
+}
+
+.footer .fcontent p {
+    font-size: 13px;
+}
+
+.form-control-lg {
+    height: calc(1.5em + 9rem + 2px);
+}
+
+.submit {
+    background-color: #756F63;
+    color: #fff;
+}
